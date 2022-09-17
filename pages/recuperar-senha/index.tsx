@@ -1,4 +1,5 @@
-import { RecuperarSenhaView } from "../../../styles/layouts/recuperar-senha/Recuperar-senha"
+import { RecuperarSenhaView } from "../../styles/layouts/recuperar-senha/Recuperar-senha"
+
 
 
 export default function RecuperarSenha () {
